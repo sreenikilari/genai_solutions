@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sreenivasa Rao Kilari
 
-**Principal Backend & Data Engineering Leader**  
+**Senior Backend & Data Engineering Leader**  
 📍 Maple Valley, WA | 📧 sreeni.kilari@gmail.com | [LinkedIn](https://www.linkedin.com/in/sreenikilari/)  
 
 ---
